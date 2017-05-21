@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lappers Times</string>
+
+    <string name="Grandtour">Grand Tour</string>
+    <string name="Mclaren_650">Mclaren 650 S</string>
+    <string name="Audi_R8">Audi R8 V10 Plus (MK II)</string>
+    <string name="Porsche_911">Porsche 911 GT3 RS (991)</string>
+
+    <string name="Monteblanco">Monteblanco</string>
+    <string name="BMW_M3">BMW M3 (E92) </string>
+    <string name="Renault_megane">Renault Megane RS (MK III)</string>
+    <string name="Alfa_Brera">Alfa Romeo Brera 3.2 JTS v6 </string>
+    <string name="Audi_TT">Audi TT RS Coupe </string>
+
+
+    <string name="Nurbur">Nurbur</string>
+    <string name="NextEV">NextEv</string>
+    <string name="Radical">Radical</string>
+
+    <string name="Top_Gear">Top Gear</string>
+    <string name="Mclaren_67t">Mclaren 675LT</string>
+    <string name="Pagani_Huayra">Pagani Huayra</string>
+    <string name="Bac_Mono">Bac Mono</string>
+
+</resources>
